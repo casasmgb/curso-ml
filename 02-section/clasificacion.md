@@ -23,7 +23,7 @@ De este ejemplo, se puede inferir que la regresión lineal no es adecuada para e
 
 2. Regresión logística multinomial
 
-    Tres o más categorías sin ordenar. Ejemplo: predecir qué alimento se prefiere más (vegetales, vereales, carnes)
+    Tres o más categorías sin ordenar. Ejemplo: predecir qué alimento se prefiere más (vegetales, cereales, carnes)
 
 3. Regresión logística ordinal
 
